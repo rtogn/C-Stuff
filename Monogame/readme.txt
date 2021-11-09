@@ -1,0 +1,1 @@
+Folders for basic games built in the monogame engine. They are not necissarily representive of final products in any case. 
