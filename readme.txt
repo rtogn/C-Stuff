@@ -18,4 +18,4 @@ Output: (7/2)
 
 classes: Fraction, RandomMath (poorly named, just a container for a few functions like GCD).
 
-Credit for certain algorithms is given in the comments of the given functoin. 
+Credit for certain algorithms is given in the comments of the given function. 
