@@ -1,1 +1,1 @@
-Learning Monogame, pong clone. No AI, both paddles controlled with keyboard. 
+JUST A BALL MOVING ON SCREEN OLD FILE
